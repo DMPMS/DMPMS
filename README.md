@@ -2,13 +2,7 @@
 
 ### Sobre mim... 🙋🏻‍♂️
 
-💻 Desenvolvedor Full Stack
-
-🎓 Estudo Ciência da Computação na Universidade Federal do Ceará - Campus de Russas
-
-👩‍💻 Atualmente busco por oportunidades para aplicar meu conhecimento
-
-🔎 Também tenho interesse nas técnicas matemáticas da Programação Linear
+💻 Sou Desenvolvedor Full Stack. 🎓 Estudo Ciência da Computação na Universidade Federal do Ceará - Campus de Russas. 👩‍💻 Atualmente busco por oportunidades para aplicar meu conhecimento. 🔎 Também tenho interesse nas técnicas matemáticas da Programação Linear.
 
 ### Eu já trabalhei com... 🔧
 
